@@ -586,6 +586,9 @@ figcaption{
 	.project_boxes_container{
 	width: 100%!important;
 	}
+	.project_boxes {
+	display:block!important;
+	}
 }
 
 .projects{
