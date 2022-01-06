@@ -583,6 +583,9 @@ figcaption{
     #digital_ads{
         display:none!important;
     }
+	.project_boxes_container{
+	width: 100%!important;
+	}
 }
 
 .projects{
