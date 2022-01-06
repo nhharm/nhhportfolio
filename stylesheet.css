@@ -320,6 +320,9 @@ body h4{
     .hero_text img{
         width:60%!important;
     }
+    .gradient{
+        background-position: center!important;
+    }
 }
 .hero_section {
     height: 1080px;
@@ -570,6 +573,16 @@ figcaption{
             display:none!important;
         }
         
+}
+
+@media only screen and (max-width: 1200px) {
+    #print2{
+        display:none!important;
+    }
+
+    #digital_ads{
+        display:none!important;
+    }
 }
 
 .projects{
