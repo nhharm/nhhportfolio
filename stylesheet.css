@@ -575,7 +575,7 @@ figcaption{
         
 }
 
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 800px) {
     #print2{
         display:none!important;
     }
