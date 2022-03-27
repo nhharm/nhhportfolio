@@ -332,6 +332,7 @@ body h4{
 .video_background{
     height: 100%;
     width: 100%;
+	opacity:0.5;
     position: absolute;
 }
 .video_background video{
@@ -340,16 +341,6 @@ body h4{
     position: absolute;
     object-fit: cover;
     z-index: 0;
-}
-
-.gradient{
-    background:linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0.5) 100%), url(Images/nyc.jpg);
-    background-size:cover;
-    background-repeat: no-repeat;
-    z-index: -20;
-    position: absolute;
-    height: 1080px;
-    width: 100%;
 }
 
 .hero_text{
